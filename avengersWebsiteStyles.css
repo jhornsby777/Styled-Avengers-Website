@@ -1,0 +1,65 @@
+#OriginalSix {
+    height: 300px ; width: auto;
+    align-self: center;
+}
+
+.Links {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Red Hat Mono", sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.OriginalAvengers {
+    text-align: left;
+    font-size: 20px;
+    font-family: "Playfair Display", sans-serif;
+}
+
+ol li:nth-child(2n) {
+    background-color: lightgrey;
+}
+
+ol {
+    margin-left: 10px;
+}
+
+#Abilities {
+    height: 300px ; width: auto;
+    border-radius: 50%;
+}
+
+#AbilitesTable{
+    text-align: center;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dashed;
+    font-style: italic;
+    background-color: orange;
+}
+
+#HeroList{
+    border-style: double;
+    border-width: 5px;
+    font-size: 30px;
+    background-color: lightskyblue;
+    font-style: italic;
+}
+
+#HeroImage{
+    height: 300px ; width: auto;
+    border-width: 10px;
+    border-style: groove;
+    align-self: center;
+    border-color: orangered;
+}
